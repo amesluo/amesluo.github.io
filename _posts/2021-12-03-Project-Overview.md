@@ -2,7 +2,6 @@
 layout: post
 title: Improving Educational Equity
 ---
-![_config.yml](https://amesluo.github.io/images/config.png)
 
 ### Project Overview 
 

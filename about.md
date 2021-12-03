@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by members Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, and Austin Tucker! 
 
-#### About our Team
+#### Our Team
 
 We are all students at the Harvard T.H. Chan School of Public Health in the Department of Global Health & Population 
 /n

@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by members Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, and Austin Tucker! 
+Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by members:
+
+- Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, and Austin Tucker. 
 
 #### Our Team
 

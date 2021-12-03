@@ -10,8 +10,8 @@ Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by 
 
 #### Our Team
 
-We are all students at the Harvard T.H. Chan School of Public Health in the Department of Global Health & Population 
-/n
+We are all students at the Harvard T.H. Chan School of Public Health in the Department of Global Health & Population   
+
 
 ##### Some fun facts about us: 
 

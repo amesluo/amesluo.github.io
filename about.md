@@ -16,8 +16,9 @@ We are all students at the Harvard T.H. Chan School of Public Health in the Depa
 ##### Some fun facts about us: 
 
 - One of us is from Guatemala
-- Two of us are from California (Bay Area & LA)
-- Two of us are East Coast natives, where we all go to school now
+- One of us hails from Texas 
+- Two of us are transplants from California (Bay Area & LA)
+- One of us is an East Coast natives, where we all go to school now
 - All of us love potatoes (waffle fries being the *best* way to eat 'em!)
 
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Improving Educational Equity
+title: Overview
 ---
 
-### Project Overview 
+### Improving Educational Equity
 
 #### Motivation
 *Provide an overview of the project goals and the motivation for it. Consider that this will be read by people who did not see your project proposal.*

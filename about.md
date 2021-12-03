@@ -9,6 +9,7 @@ Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by 
 #### About our Team
 
 We are all students at the Harvard T.H. Chan School of Public Health in the Department of Global Health & Population 
+/n
 
 ##### Some fun facts about us: 
 
@@ -18,6 +19,8 @@ We are all students at the Harvard T.H. Chan School of Public Health in the Depa
 - All of us love potatoes (waffle fries being the *best* way to eat 'em!)
 
 
-##### For more questions on this project, please contact:
+##### To view our project repository, please visit:
+[po-Data Science Project GitHub](https://github.com/Po-Data-Science-Project)
 
+For more questions on this project, please contact:
 [amyluo@hsph.harvard.edu](mailto:email@domain.com)

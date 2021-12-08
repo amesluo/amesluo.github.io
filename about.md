@@ -8,7 +8,8 @@ Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by 
 
 - Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, and Austin Tucker. 
 
-We thank [Dr. Andrew Ho](https://www.gse.harvard.edu/faculty/andrew-ho) and the [Stanford Education Data Archive (SEDA)](https://exhibits.stanford.edu/data/catalog/db586ns4974) for these data and in guiding initial directions of this project. 
+We thank [Dr. Andrew Ho](https://www.gse.harvard.edu/faculty/andrew-ho) and the [Stanford Education Data Archive (SEDA)](https://exhibits.stanford.edu/data/catalog/db586ns4974) for these data and in guiding initial directions of this project.
+
 Lastly, we acknowledge Chris Tausanovitch and Christopher Warshaw for their project, [The American Ideology](https://americanideologyproject.com/), and for making their data publicly available. The most [recent of which analyzed in this project.](https://americanideologyproject.com/estimates/estimates2015/cd_113_TW_ideology_estimates.csv)
 
 
@@ -27,23 +28,18 @@ We are all students at the Harvard T.H. Chan School of Public Health in the Depa
 
 
 ##### To view our project repository, please visit:
+
 [po-Data Science Project GitHub](https://github.com/Po-Data-Science-Project)
+
 [po-Data Science Project html]<< insert html here >> 
 
 For more questions on this project, please contact:
-[amyluo@hsph.harvard.edu](mailto:email@domain.com)
-[jmccann@hsph.harvard.edu](mailto:email@domain.com)
 
-General format:
-
-Author/Rightsholder. (Year). Title of data set (Version number) [Description of form]. Retrieved from http://
-
-OR
-
-Author/Rightsholder. (Year). Title of data set (Version number) [Description of form]. Location: Name of producer.
+[amyluo@hsph.harvard.edu](mailto:email@domain.com) and/or [jmccann@hsph.harvard.edu](mailto:email@domain.com)
 
 
-##### Citations
+
+#### Citations
 Reardon, S. F., Ho, A. D., Shear, B. R., Fahle, E. M., Kalogrides, D., Jang, H., & Chavez, B. (2021). Stanford Education Data Archive (Version 4.1). Retrieved from http://purl.stanford.edu/db586ns4974.
 
 Tausanovitch, C & Warshaw C. (2014). Congressional District-level Public Preference Estimates for year 2000 Districts (2015 Release). [csv]. Retreived from https://americanideologyproject.com/

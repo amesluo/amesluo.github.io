@@ -9,7 +9,7 @@ Hey there! These analyses were created for BST 260 Final Project, Fall 2021, by 
 - Han Choi, Yeeun Lee, Amy Luo, Juliet McCann, and Austin Tucker. 
 
 We thank [Dr. Andrew Ho](https://www.gse.harvard.edu/faculty/andrew-ho) and the [Stanford Education Data Archive (SEDA)](https://exhibits.stanford.edu/data/catalog/db586ns4974) for these data and in guiding initial directions of this project. 
-Lastly, we acknowledge Chris Tausanovitch and Christopher Warshaw for their project, [The American Ideology](https://americanideologyproject.com/), and for making their data publicly available, the most [recent of which analyzed in this project.](https://americanideologyproject.com/estimates/estimates2015/cd_113_TW_ideology_estimates.csv)
+Lastly, we acknowledge Chris Tausanovitch and Christopher Warshaw for their project, [The American Ideology](https://americanideologyproject.com/), and for making their data publicly available. The most [recent of which analyzed in this project.](https://americanideologyproject.com/estimates/estimates2015/cd_113_TW_ideology_estimates.csv)
 
 
 #### Our Team

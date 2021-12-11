@@ -11,10 +11,11 @@ title: Overview
 
 #### Objectives
 Specifically we are aiming to answer the following questions:
--What are some of the most important predictors of academic achievement at the national level?
--How is unemployment, poverty, and socioeconomic status associated with academic achievement in Massachusetts, Washington, Nebraska, and California? 
--How is percent free or reduced lunch associated with academic achievement in districts at the national level? 
--How is constituent ideology (right-leaning or conservative vs. left-leaning or liberal) associated with congressional district expenditure per pupil and per instructor?
+
+- What are some of the most important predictors of academic achievement at the national level?
+- How is unemployment, poverty, and socioeconomic status associated with academic achievement in Massachusetts, Washington, Nebraska, and California? 
+- How is percent free or reduced lunch associated with academic achievement in districts at the national level? 
+- How is constituent ideology (right-leaning or conservative vs. left-leaning or liberal) associated with congressional district expenditure per pupil and per instructor?
 
 
 ##### How we approached these questions

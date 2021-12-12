@@ -36,5 +36,5 @@ Analyses can be found in **two parts**
 
 
 For a video walkthrough  
-{% include youtubePlayer.html id="v=wI15aI_ytdw" %}
+{% include youtubePlayer.html id="wI15aI_ytdw" %}
 

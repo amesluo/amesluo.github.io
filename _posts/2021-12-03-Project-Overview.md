@@ -34,3 +34,7 @@ Analyses can be found in **two parts**
 * **Part I:** Predicting District Academic Acheivement
 * **Part II:** Political Ideology & Education Funding
 
+
+For a video walkthrough
+{% include youtubePlayer.html id="v=wI15aI_ytdw" %}
+

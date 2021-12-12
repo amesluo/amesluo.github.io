@@ -35,6 +35,6 @@ Analyses can be found in **two parts**
 * **Part II:** Political Ideology & Education Funding
 
 
-For a video walkthrough
+For a video walkthrough  
 {% include youtubePlayer.html id="v=wI15aI_ytdw" %}
 

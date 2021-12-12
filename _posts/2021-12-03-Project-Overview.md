@@ -3,7 +3,11 @@ layout: post
 title: Overview
 ---
 
-### Improving Educational Equity
+### Improving Educational Equity  
+
+For a video walkthrough  
+{% include youtubePlayer.html id="wI15aI_ytdw" %}   
+
 
 #### Motivation
 There is no denying the importance of education. At the individual level, a strong education is important for personal growth, acquiring knowledge, and developing critical thinking skills. At the societal level, educational outcomes are highly correlated to better health and higher earnings. However, in the United States, there are many factors that can influence the quality of education and student’s educational success. Understanding how these socioeconomic and political factors affect academic achievement outcomes can better inform future educational policies and programs.  
@@ -35,6 +39,5 @@ Analyses can be found in **two parts**
 * **Part II:** Political Ideology & Education Funding
 
 
-For a video walkthrough  
-{% include youtubePlayer.html id="wI15aI_ytdw" %}
+
 

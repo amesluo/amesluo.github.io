@@ -37,6 +37,7 @@ Analyses can be found in **two parts**
 
 * **Part I:** Predicting District Academic Acheivement
 * **Part II:** Political Ideology & Education Funding
+* Our Shiny App: https://arwtucker13.shinyapps.io/Shiny/
 
 
 

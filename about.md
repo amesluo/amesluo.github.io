@@ -31,7 +31,6 @@ We are all students at the Harvard T.H. Chan School of Public Health in the Depa
 
 [po-Data Science Project GitHub](https://github.com/Po-Data-Science-Project)
 
-[po-Data Science Project html]<< insert html here >> 
 
 For more questions on this project, please contact:
 
